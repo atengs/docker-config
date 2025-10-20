@@ -1,2 +1,3 @@
-# docker-config
-Konfigurasi awal untuk penggunaan docker
+# Docker Config
+
+Konfigurasi awal untuk menjalankan proyek menggunakan **Docker** dengan mudah dan konsisten di berbagai environment.
